@@ -7,3 +7,7 @@
 .bgimg{
     object-fit: cover;
 }
+.head{
+    font-size: 18px;
+    color: blueviolet;
+}
